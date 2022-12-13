@@ -6,7 +6,7 @@
   <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorreiel&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
 
-<div style="display: inline_block;" align="center"><br>
+<div style="display: inline_block;" align=""><br>
   <a href="https://github.com/vitorreiel">
   <img height="50" width="40" hspace="7" style="margin-left:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   <img height="50" width="40" hspace="7" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
