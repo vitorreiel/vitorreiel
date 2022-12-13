@@ -7,7 +7,7 @@
 </div>
 
 <div style="display: inline_block;" align="center"><br>
-  <a href="https://github.com/vitorreiel">
+  <a href="https://github.com/vitorreiel" style="display: none">
   <img height="50" width="40" hspace="7" style="margin-left:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   <img height="50" width="40" hspace="7" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
   <img height="50" width="40" hspace="7" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
