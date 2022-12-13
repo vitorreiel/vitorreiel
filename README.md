@@ -6,8 +6,7 @@
   <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorreiel&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
 
-<div style="display: inline_block;" align="center"><br>
-  <a href="https://github.com/vitorreiel" style="display: none">
+  <a href="https://github.com/vitorreiel" style="display: none"><div style="display: inline_block;" align="center"><br>
   <img height="50" width="40" hspace="7" style="margin-left:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   <img height="50" width="40" hspace="7" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
   <img height="50" width="40" hspace="7" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
@@ -22,7 +21,7 @@
   <img height="50" width="40" hspace="7" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height="50" width="40" hspace="7" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img height="50" width="40" hspace="7" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-</div>
+    </div></a>
 
 ##
 
