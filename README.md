@@ -40,7 +40,7 @@
   <a href="https://steamcommunity.com/id/devilofreiel/" target="_blank"><img hspace="7" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
 </div>
 
-![snake gif](https://github.com/vitorreiel/vitorreiel/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/vitorreiel/vitorreiel/blob/output/github-contribution-grid-snake.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
 
