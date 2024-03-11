@@ -9,6 +9,10 @@
   <img height="167em" src="https://github-readme-stats.vercel.app/api?username=vitorreiel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorreiel&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
+
+<br>
+<br>
+
 <div style="display: inline_block;" align="center"><br>
   <a href="https://github.com/vitorreiel">
   <img height="50" width="40" hspace="7" style="margin-left:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
@@ -30,7 +34,8 @@
   </a>
 </div>
 
-##
+<br>
+<br>
 
 <div >
   <a href="mailto:vitorreiel@hotmail.com" target="_blank" ><img hspace="7" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
@@ -40,7 +45,7 @@
   <a href="https://steamcommunity.com/id/devilofreiel/" target="_blank"><img hspace="7" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
 </div>
 
-![snake gif](https://github.com/vitorreiel/vitorreiel/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/vitorreiel/vitorreiel/blob/output/github-contribution-grid-snake-dark.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
 
